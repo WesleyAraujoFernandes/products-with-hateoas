@@ -8,5 +8,4 @@ public class ProductModel extends RepresentationModel<ProductModel> {
     private Long id;
     private String name;
     private Double price;
-
 }
