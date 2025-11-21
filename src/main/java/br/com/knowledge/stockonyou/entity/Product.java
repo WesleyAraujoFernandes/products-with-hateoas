@@ -1,4 +1,4 @@
-package br.com.knowledge.products_with_hateoas.entity;
+package br.com.knowledge.stockonyou.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

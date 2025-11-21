@@ -1,11 +1,11 @@
-package br.com.knowledge.products_with_hateoas.service;
+package br.com.knowledge.stockonyou.service;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import br.com.knowledge.products_with_hateoas.entity.Product;
-import br.com.knowledge.products_with_hateoas.repository.ProductRepository;
+import br.com.knowledge.stockonyou.entity.Product;
+import br.com.knowledge.stockonyou.repository.ProductRepository;
 
 @Service
 public class ProductService {

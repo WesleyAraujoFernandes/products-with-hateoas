@@ -1,13 +1,13 @@
-package br.com.knowledge.products_with_hateoas;
+package br.com.knowledge.stockonyou;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProductsWithHateoasApplication {
+public class StockOnYouApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProductsWithHateoasApplication.class, args);
+		SpringApplication.run(StockOnYouApplication.class, args);
 	}
 
 }

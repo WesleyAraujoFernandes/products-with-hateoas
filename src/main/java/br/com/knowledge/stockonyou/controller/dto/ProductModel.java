@@ -1,4 +1,4 @@
-package br.com.knowledge.products_with_hateoas.controller.dto;
+package br.com.knowledge.stockonyou.controller.dto;
 
 import org.springframework.hateoas.RepresentationModel;
 
